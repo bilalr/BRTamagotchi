@@ -1,0 +1,15 @@
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.exe
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.deps.json
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.runtimeconfig.json
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.runtimeconfig.dev.json
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.dll
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\ref\BR.Tamagotchi.dll
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\bin\Debug\net5.0\BR.Tamagotchi.pdb
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.AssemblyInfoInputs.cache
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.AssemblyInfo.cs
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.csproj.CoreCompileInputs.cache
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.dll
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\ref\BR.Tamagotchi.dll
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.pdb
+C:\Users\ITSBI\Desktop\int\Imburse\BR.Tamagotchi\BR.Tamagotchi\obj\Debug\net5.0\BR.Tamagotchi.genruntimeconfig.cache
